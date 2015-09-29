@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:0,#EXTINF:-1, 63
+#EXTINF:0,#EXTINF:-1, EuroSport1
 http://centurionlukavac.com:80/live?channelId=63&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 64
+#EXTINF:0,#EXTINF:-1, EuroSport2
 http://centurionlukavac.com:80/live?channelId=64&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 65
+#EXTINF:0,#EXTINF:-1, Arena1
 http://centurionlukavac.com:80/live?channelId=65&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 66
+#EXTINF:0,#EXTINF:-1, Arena2
 http://centurionlukavac.com:80/live?channelId=66&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 67
+#EXTINF:0,#EXTINF:-1, Arena3
 http://centurionlukavac.com:80/live?channelId=67&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 71
+#EXTINF:0,#EXTINF:-1, SK1
 http://centurionlukavac.com:80/live?channelId=71&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 72
+#EXTINF:0,#EXTINF:-1, SK2
 http://centurionlukavac.com:80/live?channelId=72&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 73
+#EXTINF:0,#EXTINF:-1, SK3
 http://centurionlukavac.com:80/live?channelId=73&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 75
+#EXTINF:0,#EXTINF:-1, SK2 HD
 http://centurionlukavac.com:80/live?channelId=75&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, 76
+#EXTINF:0,#EXTINF:-1, SK3 HD
 http://centurionlukavac.com:80/live?channelId=76&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:0,#EXTINF:-1, Arena 5
 http://alphaone.dyndns.tv:1293/live?channelId=85&deviceMac=00:1A:79:25:74:84

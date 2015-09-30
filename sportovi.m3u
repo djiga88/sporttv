@@ -1,25 +1,25 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="EuroSport1" tvg-name="EuroSport1"EuroSport1
+#EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
+#EXTINF:-1 tvg-id="EuroSport1" tvg-name="EuroSport1" group-title="Ex-Yu",EuroSport1
 http://centurionlukavac.com:80/live?channelId=63&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="EuroSport2" tvg-name="EuroSport2"
+#EXTINF:-1 tvg-id="EuroSport2" tvg-name="EuroSport2" group-title="Ex-Yu",EuroSport2 
 http://centurionlukavac.com:80/live?channelId=64&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 1" tvg-name="Arena1"
+#EXTINF:-1 tvg-id="Arena 1" tvg-name="Arena1" group-title="Ex-Yu",Arena1
 http://centurionlukavac.com:80/live?channelId=65&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2"
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" group-title="Ex-Yu",Arena 2
 http://centurionlukavac.com:80/live?channelId=66&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 3" tvg-name="Arena 3"
+#EXTINF:-1 tvg-id="Arena 3" tvg-name="Arena 3" group-title="Ex-Yu",Arena 3
 http://centurionlukavac.com:80/live?channelId=67&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 4" tvg-name="Arena 4"
+#EXTINF:-1 tvg-id="Arena 4" tvg-name="Arena 4" group-title="Ex-Yu",Arena 4
 http://centurionlukavac.com:80/live?channelId=68&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK1" tvg-name="SK1"
+#EXTINF:-1 tvg-id="SK1" tvg-name="SK1" group-title="Ex-Yu",SK1
 http://centurionlukavac.com:80/live?channelId=71&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK2" tvg-name="SK2"
+#EXTINF:-1 tvg-id="SK2" tvg-name="SK2" group-title="Ex-Yu",SK2
 http://centurionlukavac.com:80/live?channelId=72&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK3" tvg-name="SK3"
+#EXTINF:-1 tvg-id="SK3" tvg-name="SK3" group-title="Ex-Yu",SK3
 http://centurionlukavac.com:80/live?channelId=73&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK2 HD" tvg-name="SK2 HD"
+#EXTINF:-1 tvg-id="SK2 HD" tvg-name="SK2 HD" group-title="Ex-Yu",SK2 HD
 http://centurionlukavac.com:80/live?channelId=75&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK3 HD" tvg-name="SK3 HD"
+#EXTINF:-1 tvg-id="SK3 HD" tvg-name="SK3 HD" group-title="Ex-Yu",SK3 HD
 http://centurionlukavac.com:80/live?channelId=76&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:0,#EXTINF:-1, Arena 5
 http://alphaone.dyndns.tv:1293/live?channelId=85&deviceMac=00:1A:79:25:74:84

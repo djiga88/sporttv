@@ -1,81 +1,79 @@
 #EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
-#EXTINF:-1 tvg-id="EuroSport1" tvg-name="EuroSport1" group-title="Ex-Yu",EuroSport1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://pcrepair.com.ba/Logo3/esp1.png" group-title="Ex-Yu",Eurosport 1
 http://centurionlukavac.com:80/live?channelId=63&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="EuroSport2" tvg-name="EuroSport2" group-title="Ex-Yu",EuroSport2 
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://pcrepair.com.ba/Logo3/esp2.png" group-title="Ex-Yu",Eurosport 2
 http://centurionlukavac.com:80/live?channelId=64&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 1" tvg-name="Arena1" group-title="Ex-Yu",Arena1
+#EXTINF:-1 tvg-id="Arena 1" tvg-name="Arena 1" tvg-logo="http://pcrepair.com.ba/Logo3/arena1.png" group-title="Ex-Yu",Arena 1
 http://centurionlukavac.com:80/live?channelId=65&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" group-title="Ex-Yu",Arena 2
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="http://pcrepair.com.ba/Logo3/arena2.png" group-title="Ex-Yu",Arena 2
 http://centurionlukavac.com:80/live?channelId=66&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 3" tvg-name="Arena 3" group-title="Ex-Yu",Arena 3
+#EXTINF:-1 tvg-id="Arena 3" tvg-name="Arena 3" tvg-logo="http://pcrepair.com.ba/Logo3/arena3.png" group-title="Ex-Yu",Arena 3
 http://centurionlukavac.com:80/live?channelId=67&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 4" tvg-name="Arena 4" group-title="Ex-Yu",Arena 4
+#EXTINF:-1 tvg-id="Arena 4" tvg-name="Arena 4" tvg-logo="http://pcrepair.com.ba/Logo3/arena4.png" group-title="Ex-Yu",Arena 4
 http://centurionlukavac.com:80/live?channelId=68&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK1" tvg-name="SK1" group-title="Ex-Yu",SK1
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-name="Sport Klub 1" tvg-logo="http://pcrepair.com.ba/Logo3/sk1.png" group-title="Ex-Yu",Sport Klub 1
 http://centurionlukavac.com:80/live?channelId=71&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK2" tvg-name="SK2" group-title="Ex-Yu",SK2
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-name="Sport Klub 2" tvg-logo="http://pcrepair.com.ba/Logo3/sk2.png" group-title="Ex-Yu",Sport Klub 2
 http://centurionlukavac.com:80/live?channelId=72&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK3" tvg-name="SK3" group-title="Ex-Yu",SK3
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-name="Sport Klub 3" tvg-logo="http://pcrepair.com.ba/Logo3/sk3.png" group-title="Ex-Yu",Sport Klub 3
 http://centurionlukavac.com:80/live?channelId=73&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK2 HD" tvg-name="SK2 HD" group-title="Ex-Yu",SK2 HD
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-name="Sport Klub 2" tvg-logo="http://pcrepair.com.ba/Logo3/sk2.png" group-title="Ex-Yu",Sport Klub 2 HD
 http://centurionlukavac.com:80/live?channelId=75&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="SK3 HD" tvg-name="SK3 HD" group-title="Ex-Yu",SK3 HD
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-name="Sport Klub 3" tvg-logo="http://pcrepair.com.ba/Logo3/sk3.png" group-title="Ex-Yu",Sport Klub 3 HD
 http://centurionlukavac.com:80/live?channelId=76&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1, Arena 5
+#EXTINF:-1 tvg-id="Arena 4" tvg-name="Arena 5" tvg-logo="http://pcrepair.com.ba/Logo3/arena5.png" group-title="Ex-Yu",Arena 5
 http://alphaone.dyndns.tv:1293/live?channelId=85&deviceMac=00:1A:79:25:74:84
-#EXTINF:0,#EXTINF:-1,1
+#EXTINF:-1 tvg-id="Federalna" tvg-name="Federalna" group-title="Ex-Yu",Federalna
 http://centurionlukavac.com:80/live?channelId=1&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,2
+#EXTINF:-1 tvg-id="BHT 1" tvg-name="BHT 1" tvg-logo="http://pcrepair.com.ba/Logo2/bht1.png" group-title="Ex-Yu",BHT 1
 http://centurionlukavac.com:80/live?channelId=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,3
+#EXTINF:-1 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="tvg-name" group-title="Ex-Yu",RTRS
 http://centurionlukavac.com:80/live?channelId=3&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,4
+#EXTINF:-1 tvg-id="OBN" tvg-name="OBN" tvg-logo="http://pcrepair.com.ba/Logo2/obn.png" group-title="Ex-Yu",OBN
 http://centurionlukavac.com:80/live?channelId=4&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,5
+#EXTINF:-1 tvg-id="Pink BH" tvg-name="Pink BH" tvg-logo="http://pcrepair.com.ba/Logo2/pinkbh.png" group-title="Ex-Yu",Pink BH
 http://centurionlukavac.com:80/live?channelId=5&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,6
+#EXTINF:-1 tvg-id="PINK 2" tvg-name="PINK 2" group-title="Ex-Yu",PINK 2
 http://centurionlukavac.com:80/live?channelId=6&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,7
+#EXTINF:-1 tvg-id="PINK 3" tvg-name="PINK 3" group-title="Ex-Yu",PINK 3
 http://centurionlukavac.com:80/live?channelId=7&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,8
+#EXTINF:-1 tvg-id="HAYAT HD" tvg-name="HAYAT HD" group-title="Ex-Yu",HAYAT HD
 http://centurionlukavac.com:80/live?channelId=8&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,9
+#EXTINF:-1 tvg-id="BN" tvg-name="BN" tvg-logo="http://pcrepair.com.ba/Logo2/bntv.png" group-title="Ex-Yu",BN TV
 http://centurionlukavac.com:80/live?channelId=9&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,10
+#EXTINF:-1 tvg-id="Face TV" tvg-name="Face TV" tvg-logo="http://pcrepair.com.ba/Logo2/facetv.png" group-title="Ex-Yu",Face TV
 http://centurionlukavac.com:80/live?channelId=10&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,11
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://pcrepair.com.ba/Logo2/tv1.png" group-title="Ex-Yu",TV 1
 http://centurionlukavac.com:80/live?channelId=11&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,12
+#EXTINF:-1 tvg-id="PINK" tvg-name="PINK" group-title="Ex-Yu",PINK 
 http://centurionlukavac.com:80/live?channelId=12&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,13
+#EXTINF:-1 tvg-id="PINK Plus" tvg-name="PINK Plus" group-title="Ex-Yu",PINK Plus
 http://centurionlukavac.com:80/live?channelId=13&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,14
+#EXTINF:-1 tvg-id="PINK Extra" tvg-name="PINK Extra" group-title="Ex-Yu",PINK Extra
 http://centurionlukavac.com:80/live?channelId=14&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,15
+#EXTINF:-1 tvg-id="PINK M" tvg-name="PINK M" group-title="Ex-Yu",PINK M
 http://centurionlukavac.com:80/live?channelId=15&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,16
+#EXTINF:-1 tvg-id="TK" tvg-name="TK" group-title="Ex-Yu",TK 
 http://centurionlukavac.com:80/live?channelId=16&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,17
+#EXTINF:-1 tvg-id="Balkans" tvg-name="Balkans" group-title="Ex-Yu",Balkans
 http://centurionlukavac.com:80/live?channelId=17&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,18
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 2" tvg-logo="http://pcrepair.com.ba/Logo2/hrt1.png" group-title="Ex-Yu",HRT 1
 http://centurionlukavac.com:80/live?channelId=18&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,19
+#EXTINF:-1 tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="http://pcrepair.com.ba/Logo2/hrt2.png" group-title="Ex-Yu",HRT 2
 http://centurionlukavac.com:80/live?channelId=19&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,20
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://pcrepair.com.ba/Logo2/rtl.png" group-title="Ex-Yu",RTL
 http://centurionlukavac.com:80/live?channelId=20&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,21
+#EXTINF:-1 tvg-id="RTL 2" tvg-name="RTL 2" tvg-logo="http://pcrepair.com.ba/Logo2/rtl.png" group-title="Ex-Yu",RTL 2
 http://centurionlukavac.com:80/live?channelId=21&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,22
+#EXTINF:-1 tvg-id="RTS 1" tvg-name="RTS 1" tvg-logo="http://pcrepair.com.ba/Logo2/rts1.png" group-title="Ex-Yu",RTS 1
 http://centurionlukavac.com:80/live?channelId=22&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,23
+#EXTINF:-1 tvg-id="RTS 2" tvg-name="RTS 2" tvg-logo="http://pcrepair.com.ba/Logo2/rts2.png" group-title="Ex-Yu",RTS 2
 http://centurionlukavac.com:80/live?channelId=23&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,24
-http://centurionlukavac.com:80/live?channelId=24&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,25
+#EXTINF:-1 tvg-id="RTS Satelit" tvg-name="RTS Satelit" tvg-logo="http://pcrepair.com.ba/Logo2/rts2.png" group-title="Ex-Yu",RTS Satelit 
 http://centurionlukavac.com:80/live?channelId=25&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,26
+#EXTINF:-1 tvg-id="B92 Info" tvg-name="B92 Info" tvg-logo="tvg-name" group-title="Ex-Yu",B92 Info
 http://centurionlukavac.com:80/live?channelId=26&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:0,#EXTINF:-1,27
+#EXTINF:-1 tvg-id="Alfa TV" tvg-name="Alfa TV" tvg-logo="http://pcrepair.com.ba/Logo3/alfatv.png"" group-title="Ex-Yu",Alfa TV
 http://centurionlukavac.com:80/live?channelId=27&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:0,#EXTINF:-1,28
 http://centurionlukavac.com:80/live?channelId=28&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123

@@ -29,6 +29,8 @@ http://alphaone.dyndns.tv:1293/live?channelId=85&deviceMac=00:1A:79:25:74:84
 http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="SPTV.png",Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova RS" tvg-name="Nova RS" tvg-logo="tvg-name" group-title="Ex-Yu",Nova RS
+http://alphaone.dyndns.tv:1293/live?channelId=67&deviceMac=00:1A:79:25:74:84
 #EXTINF:-1 tvg-id="tvg-name" tvg-name="tvg-name" tvg-logo="tvg-name" group-title="Ex-Yu",FOX Sport 1
 http://stream6.dyndns.tv:8888/live?channelId=260&deviceMac=00:1A:79:25:74:84
 #EXTINF:-1 tvg-id="tvg-name" tvg-name="tvg-name" tvg-logo="tvg-name" group-title="Ex-Yu",FOX Sport 2

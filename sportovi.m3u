@@ -5,6 +5,8 @@ http://centurionlukavac.com:80/live?channelId=63&deviceUser=dm8981ABcDe123&devic
 http://centurionlukavac.com:80/live?channelId=64&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:-1 tvg-id="Arena 1" tvg-name="Arena 1" tvg-logo="http://pcrepair.com.ba/Logo3/arena1.png" group-title="Ex-Yu",Arena 1
 http://centurionlukavac.com:80/live?channelId=65&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:-1 tvg-id="Arena 1 HR" tvg-name="Arena 1 HR" tvg-logo="http://pcrepair.com.ba/Logo3/arena1.png" group-title="Ex-Yu",Arena 1 HR
+http://sangajstream.dyndns.biz:80/live?channelId=77&deviceMac=00:1A:79:25:74:84
 #EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="http://pcrepair.com.ba/Logo3/arena2.png" group-title="Ex-Yu",Arena 2
 http://centurionlukavac.com:80/live?channelId=66&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:-1 tvg-id="Arena 3" tvg-name="Arena 3" tvg-logo="http://pcrepair.com.ba/Logo3/arena3.png" group-title="Ex-Yu",Arena 3
@@ -21,8 +23,22 @@ http://centurionlukavac.com:80/live?channelId=73&deviceUser=dm8981ABcDe123&devic
 http://centurionlukavac.com:80/live?channelId=75&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:-1 tvg-id="Sport Klub 3" tvg-name="Sport Klub 3" tvg-logo="http://pcrepair.com.ba/Logo3/sk3.png" group-title="Ex-Yu",Sport Klub 3 HD
 http://centurionlukavac.com:80/live?channelId=76&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
-#EXTINF:-1 tvg-id="Arena 4" tvg-name="Arena 5" tvg-logo="http://pcrepair.com.ba/Logo3/arena5.png" group-title="Ex-Yu",Arena 5
+#EXTINF:-1 tvg-id="Arena 5" tvg-name="Arena 5" tvg-logo="http://pcrepair.com.ba/Logo3/arena5.png" group-title="Ex-Yu",Arena 5
 http://alphaone.dyndns.tv:1293/live?channelId=85&deviceMac=00:1A:79:25:74:84
+#EXTINF:-1 tvg-logo="SPTV.png",Sportska TV
+http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="SPTV.png",Sportska TV
+http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name" tvg-name="tvg-name" tvg-logo="tvg-name" group-title="Ex-Yu",FOX Sport 1
+http://stream6.dyndns.tv:8888/live?channelId=260&deviceMac=00:1A:79:25:74:84
+#EXTINF:-1 tvg-id="tvg-name" tvg-name="tvg-name" tvg-logo="tvg-name" group-title="Ex-Yu",FOX Sport 2
+http://stream6.dyndns.tv:8888/live?channelId=261&deviceMac=00:1A:79:25:74:84
+#EXTINF:-1 tvg-id="tvg-name" tvg-name="tvg-name" tvg-logo="tvg-name" group-title="Ex-Yu",FOX Sport 3
+http://stream6.dyndns.tv:8888/live?channelId=262&deviceMac=00:1A:79:25:74:84
+#EXTINF:-1 tvg-id="tvg-name" tvg-name="tvg-name" tvg-logo="tvg-name" group-title="Ex-Yu",FOX Sport 4
+http://stream6.dyndns.tv:8888/live?channelId=263&deviceMac=00:1A:79:25:74:84
+#EXTINF:-1 tvg-id="tvg-name" tvg-name="tvg-name" tvg-logo="tvg-name" group-title="Ex-Yu",FOX Sport 5
+http://stream6.dyndns.tv:8888/live?channelId=264&deviceMac=00:1A:79:25:74:84
 #EXTINF:-1 tvg-id="Federalna" tvg-name="Federalna" group-title="Ex-Yu",Federalna
 http://centurionlukavac.com:80/live?channelId=1&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:-1 tvg-id="BHT 1" tvg-name="BHT 1" tvg-logo="http://pcrepair.com.ba/Logo2/bht1.png" group-title="Ex-Yu",BHT 1

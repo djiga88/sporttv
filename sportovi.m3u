@@ -1,4 +1,499 @@
 #EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
+
+#EXTM3U
+#EXTINF:-1 tvg-name="SPORTKLUB_1HR" tvg-logo="",SPORT KLUB 1
+http://server3.balkantvmedia.com:8080/SPORTKLUB_1HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="SPORTKLUB_2HR" tvg-logo="",SPORT KLUB 2
+http://server6.balkantvmedia.com:8080/SPORTKLUB_2HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="SPORTKLUB_3HR" tvg-logo="",SPORT KLUB 3
+http://server4.balkantvmedia.com:8080/SPORTKLUB_3HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_HD" tvg-logo="",Sport Klub HD
+http://server5.balkantvmedia.com:8080/Sport_Klub_HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_1HD" tvg-logo="",Sport Klub 1 HD
+http://server6.balkantvmedia.com:8080/Sport_Klub_1HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_2HD" tvg-logo="",Sport Klub 2 HD
+http://server6.balkantvmedia.com:8080/Sport_Klub_2HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_3HD" tvg-logo="",Sport Klub 3 HD
+http://server5.balkantvmedia.com:8080/Sport_Klub_3HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_1HR" tvg-logo="",ARENA SPORT 1 HR
+http://server2.balkantvmedia.com:8080/ARENA_SPORT_1HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_2HR" tvg-logo="",ARENA SPORT 2 HR
+http://server5.balkantvmedia.com:8080/ARENA_SPORT_2HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_3HR" tvg-logo="",ARENA SPORT 3 HR
+http://server5.balkantvmedia.com:8080/ARENA_SPORT_3HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_4HR" tvg-logo="",ARENA SPORT 4 HR
+http://server2.balkantvmedia.com:8080/ARENA_SPORT_4HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_5HR" tvg-logo="",ARENA SPORT 5 HR
+http://server4.balkantvmedia.com:8080/ARENA_SPORT_5HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_1SR" tvg-logo="",ARENA SPORT 1 SR
+http://server5.balkantvmedia.com:8080/ARENA_SPORT_1SR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_2SR" tvg-logo="",ARENA SPORT 2 SR
+http://server3.balkantvmedia.com:8080/ARENA_SPORT_2SR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_3SR" tvg-logo="",ARENA SPORT 3 SR
+http://server5.balkantvmedia.com:8080/ARENA_SPORT_3SR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_4SR" tvg-logo="",ARENA SPORT 4 SR
+http://server6.balkantvmedia.com:8080/ARENA_SPORT_4SR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_5SR" tvg-logo="",ARENA SPORT 5 SR
+http://server2.balkantvmedia.com:8080/ARENA_SPORT_5SR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="EUROSPORT_1SR" tvg-logo="",EUROSPORT 1 SR
+http://server6.balkantvmedia.com:8080/EUROSPORT_1SR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="EUROSPORT_2SR" tvg-logo="",EUROSPORT 2 SR
+http://server6.balkantvmedia.com:8080/EUROSPORT_2SR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="BHT" tvg-logo="",BHT
+http://server6.balkantvmedia.com:8080/BHT?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="BHT_HD" tvg-logo="",BHT HD
+http://server5.balkantvmedia.com:8080/BHT_HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="FTV" tvg-logo="",FTV
+http://server3.balkantvmedia.com:8080/FTV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTRS" tvg-logo="",RTRS
+http://server5.balkantvmedia.com:8080/RTRS?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ATV_BIH" tvg-logo="",ATV BIH
+http://server3.balkantvmedia.com:8080/ATV_BIH?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="N1" tvg-logo="",N1
+http://server6.balkantvmedia.com:8080/N1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="TV1" tvg-logo="",TV1
+http://server5.balkantvmedia.com:8080/TV1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="TV_SA" tvg-logo="",TV SA
+http://server4.balkantvmedia.com:8080/TV_SA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HAYAT" tvg-logo="",HAYAT
+http://server5.balkantvmedia.com:8080/HAYAT?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HAYAT_SAT" tvg-logo="",HAYAT SAT
+http://server2.balkantvmedia.com:8080/HAYAT_SAT?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="FACE" tvg-logo="",FACE TV
+http://server2.balkantvmedia.com:8080/FACE?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="OBN" tvg-logo="",OBN
+http://server4.balkantvmedia.com:8080/OBN?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_BH" tvg-logo="",PINK BiH
+http://server5.balkantvmedia.com:8080/PINK_BH?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="AlJazeeraBalkans" tvg-logo="",AlJazeera Balkans
+http://server2.balkantvmedia.com:8080/AlJazeeraBalkans?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="BN_TELEVIZIJA" tvg-logo="",BN TELEVIZIJA
+http://server2.balkantvmedia.com:8080/BN_TELEVIZIJA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="SLON" tvg-logo="",SLON TV
+http://server5.balkantvmedia.com:8080/SLON?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="TK" tvg-logo="",TK
+http://server4.balkantvmedia.com:8080/TK?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="TV_USK" tvg-logo="",TV USK
+http://server3.balkantvmedia.com:8080/TV_USK?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HRT1" tvg-logo="",HRT 1
+http://server6.balkantvmedia.com:8080/HRT1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HRT2" tvg-logo="",HRT 2
+http://server5.balkantvmedia.com:8080/HRT2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HRT3" tvg-logo="",HRT 3
+http://server3.balkantvmedia.com:8080/HRT3?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HRT4" tvg-logo="",HRT 4
+http://server6.balkantvmedia.com:8080/HRT4?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Z1" tvg-logo="",Z1
+http://server3.balkantvmedia.com:8080/Z1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Vinkovacka_TV" tvg-logo="",Vinkovacka TV
+http://server6.balkantvmedia.com:8080/Vinkovacka_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="OsjeckaTV" tvg-logo="",Osjecka TV
+http://server5.balkantvmedia.com:8080/OsjeckaTV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Nova_TV" tvg-logo="",Nova TV
+http://server3.balkantvmedia.com:8080/Nova_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTL_HR" tvg-logo="",RTL HR
+http://server2.balkantvmedia.com:8080/RTL_HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTL2_HR" tvg-logo="",RTL 2 HR
+http://server3.balkantvmedia.com:8080/RTL2_HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Doma_TV" tvg-logo="",Doma TV
+http://server5.balkantvmedia.com:8080/Doma_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTS1" tvg-logo="",RTS 1
+http://server5.balkantvmedia.com:8080/RTS1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTS2" tvg-logo="",RTS 2
+http://server2.balkantvmedia.com:8080/RTS2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTS_SAT" tvg-logo="",RTS SAT
+http://server3.balkantvmedia.com:8080/RTS_SAT?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="B92" tvg-logo="",B92
+http://server5.balkantvmedia.com:8080/B92?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="B92_Info" tvg-logo="",B92 Info
+http://server6.balkantvmedia.com:8080/B92_Info?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PRVA" tvg-logo="",Prva TV
+http://server2.balkantvmedia.com:8080/PRVA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Prva_Plus" tvg-logo="",Prva Plus
+http://server4.balkantvmedia.com:8080/Prva_Plus?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Nova_Srpska" tvg-logo="",Nova RS
+http://server3.balkantvmedia.com:8080/Nova_Srpska?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_SRBIJA" tvg-logo="",PINK
+http://server6.balkantvmedia.com:8080/PINK_SRBIJA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_PLUS" tvg-logo="",PINK PLUS
+http://server2.balkantvmedia.com:8080/PINK_PLUS?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_EXTRA" tvg-logo="",PINK EXTRA
+http://server5.balkantvmedia.com:8080/PINK_EXTRA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK2" tvg-logo="",PINK 2
+http://server2.balkantvmedia.com:8080/PINK2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK3" tvg-logo="",PINK3
+http://server3.balkantvmedia.com:8080/PINK3?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HAPPY" tvg-logo="",HAPPY
+http://server4.balkantvmedia.com:8080/HAPPY?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="KCN1" tvg-logo="",KCN 1
+http://server4.balkantvmedia.com:8080/KCN1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="KCN2" tvg-logo="",KCN 2
+http://server3.balkantvmedia.com:8080/KCN2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ALSAT" tvg-logo="",ALSAT
+http://server3.balkantvmedia.com:8080/ALSAT?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="KANAL5" tvg-logo="",KANAL 5
+http://server4.balkantvmedia.com:8080/KANAL5?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ALFA" tvg-logo="",ALFA
+http://server4.balkantvmedia.com:8080/ALFA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ATLAS" tvg-logo="",ATLAS
+http://server3.balkantvmedia.com:8080/ATLAS?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTV_CG" tvg-logo="",RTV CG
+http://server4.balkantvmedia.com:8080/RTV_CG?u=user173:p=Dbp4w93g
+#EXTINF:-1 tvg-name="Fight_Channel" tvg-logo="",Fight Channel
+http://server5.balkantvmedia.com:8080/Fight_Channel?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_FILM" tvg-logo="",PINK FILM
+http://server6.balkantvmedia.com:8080/PINK_FILM?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_MOVIE" tvg-logo="",PINK Movie
+http://server3.balkantvmedia.com:8080/PINK_MOVIE?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Movies_2" tvg-logo="",Pink Crime&Mystery
+http://server5.balkantvmedia.com:8080/Pink_Movies_2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Movies_3" tvg-logo="",Pink Thriller
+http://server2.balkantvmedia.com:8080/Pink_Movies_3?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_AKCIJA" tvg-logo="",Pink Action
+http://server4.balkantvmedia.com:8080/PINK_AKCIJA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Action_2" tvg-logo="",Pink Family
+http://server2.balkantvmedia.com:8080/Pink_Action_2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Action_3" tvg-logo="",Pink Sci&Fantasy
+http://server5.balkantvmedia.com:8080/Pink_Action_3?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_CLASSIC" tvg-logo="",Pink CLASSIC
+http://server4.balkantvmedia.com:8080/PINK_CLASSIC?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="CINESTAR_TV" tvg-logo="",CINESTAR TV
+http://server4.balkantvmedia.com:8080/CINESTAR_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX" tvg-logo="",FOX
+http://server3.balkantvmedia.com:8080/FOX?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX_MOVIE" tvg-logo="",FOX MOVIE
+http://server4.balkantvmedia.com:8080/FOX_MOVIE?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX_crime" tvg-logo="",FOX Crime
+http://server6.balkantvmedia.com:8080/FOX_crime?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX_life" tvg-logo="",FOX Life
+http://server4.balkantvmedia.com:8080/FOX_life?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="AXN" tvg-logo="",AXN
+http://server3.balkantvmedia.com:8080/AXN?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="SCIFI" tvg-logo="",SCIFI
+http://server3.balkantvmedia.com:8080/SCIFI?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="CRIME_INVESTIGATION" tvg-logo="",CRIME&INVESTIGATION
+http://server3.balkantvmedia.com:8080/CRIME_INVESTIGATION?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="KLASIK_TV" tvg-logo="",KLASIK TV
+http://server2.balkantvmedia.com:8080/KLASIK_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HBO_ADRIA" tvg-logo="",HBO ADRIA
+http://server4.balkantvmedia.com:8080/HBO_ADRIA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HBO_COMEDY" tvg-logo="",HBO COMEDY
+http://server4.balkantvmedia.com:8080/HBO_COMEDY?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="",CINEMAX 1
+http://server5.balkantvmedia.com:8080/CINEMAX?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Cinemax2" tvg-logo="",CINEMAX 2
+http://server3.balkantvmedia.com:8080/Cinemax2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="CINESTAR_Premiere_1" tvg-logo="",CINESTAR Premiere 1
+http://server5.balkantvmedia.com:8080/CINESTAR_Premiere_1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="CINESTAR_Premiere_2" tvg-logo="",CINESTAR Premiere 2
+http://server2.balkantvmedia.com:8080/CINESTAR_Premiere_2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_Western" tvg-logo="",PINK Western
+http://server3.balkantvmedia.com:8080/PINK_Western?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Premium" tvg-logo="",Pink Premium
+http://server2.balkantvmedia.com:8080/Pink_Premium?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Comedy" tvg-logo="",Pink Comedy
+http://server4.balkantvmedia.com:8080/Pink_Comedy?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Horor" tvg-logo="",Pink Horor
+http://server6.balkantvmedia.com:8080/Pink_Horor?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Soap" tvg-logo="",Pink Soap
+http://server6.balkantvmedia.com:8080/Pink_Soap?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="M1" tvg-logo="",M1
+http://server2.balkantvmedia.com:8080/M1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="",DISCOVERY
+http://server6.balkantvmedia.com:8080/DISCOVERY?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="NATIONAL_GEOGRAPHIC" tvg-logo="",NATIONAL GEOGRAPHIC
+http://server5.balkantvmedia.com:8080/NATIONAL_GEOGRAPHIC?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="History" tvg-logo="",History
+http://server5.balkantvmedia.com:8080/History?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="NWG" tvg-logo="",NWG
+http://server4.balkantvmedia.com:8080/NWG?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Fishing_and_Hunting" tvg-logo="",Fishing&Hunting
+http://server2.balkantvmedia.com:8080/Fishing_and_Hunting?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="",Animal Planet
+http://server2.balkantvmedia.com:8080/Animal_Planet?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Pedia" tvg-logo="",Pink Pedia
+http://server6.balkantvmedia.com:8080/Pink_Pedia?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="VIASAT_HISTORY" tvg-logo="",VIASAT HISTORY
+http://server4.balkantvmedia.com:8080/VIASAT_HISTORY?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ID" tvg-logo="",ID
+http://server3.balkantvmedia.com:8080/ID?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="24_KITCHEN" tvg-logo="",24 KITCHEN
+http://server2.balkantvmedia.com:8080/24_KITCHEN?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="E+" tvg-logo="",E+
+http://server6.balkantvmedia.com:8080/E+?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_SHOW" tvg-logo="",PINK SHOW
+http://server3.balkantvmedia.com:8080/PINK_SHOW?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="FASHION_TV" tvg-logo="",FASHION TV
+http://server2.balkantvmedia.com:8080/FASHION_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="LIFE_HOLIDAY" tvg-logo="",LIFE HOLIDAY
+http://server4.balkantvmedia.com:8080/LIFE_HOLIDAY?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_reality" tvg-logo="",Pink Reality
+http://server3.balkantvmedia.com:8080/Pink_reality?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="OK_BAMBINO" tvg-logo="",OK BAMBINO
+http://server4.balkantvmedia.com:8080/OK_BAMBINO?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Nickeldon" tvg-logo="",Nickeldon
+http://server5.balkantvmedia.com:8080/Nickeldon?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="SUPER_RTL" tvg-logo="",SUPER RTL
+http://server2.balkantvmedia.com:8080/SUPER_RTL?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTL_Kockica" tvg-logo="",RTL Kockica
+http://server4.balkantvmedia.com:8080/RTL_Kockica?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Baby_TV" tvg-logo="",Baby TV
+http://server3.balkantvmedia.com:8080/Baby_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HAYATOVCI" tvg-logo="",HAYATOVCI
+http://server6.balkantvmedia.com:8080/HAYATOVCI?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_KIDS" tvg-logo="",PINK KIDS
+http://server3.balkantvmedia.com:8080/PINK_KIDS?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="MINIMAX" tvg-logo="",MINIMAX
+http://server3.balkantvmedia.com:8080/MINIMAX?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="MINI_TV" tvg-logo="",MINI TV
+http://server4.balkantvmedia.com:8080/MINI_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Music" tvg-logo="",Pink Music
+http://server6.balkantvmedia.com:8080/Pink_Music?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Music_3" tvg-logo="",Pink Hits 2
+http://server2.balkantvmedia.com:8080/Pink_Music_3?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Rool" tvg-logo="",Pink Rock&Roll
+http://server5.balkantvmedia.com:8080/Pink_Rool?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="POSAVINA_TV" tvg-logo="",POSAVINA TV
+http://server5.balkantvmedia.com:8080/POSAVINA_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="IZVORNA_TV" tvg-logo="",IZVORNA TV
+http://server2.balkantvmedia.com:8080/IZVORNA_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="DM_SAT" tvg-logo="",DM SAT
+http://server2.balkantvmedia.com:8080/DM_SAT?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="CMC" tvg-logo="",CMC
+http://server6.balkantvmedia.com:8080/CMC?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="BN_MUSIC" tvg-logo="",BN MUSIC
+http://server5.balkantvmedia.com:8080/BN_MUSIC?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="GRAND" tvg-logo="",GRAND TV
+http://server4.balkantvmedia.com:8080/GRAND?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_FOLK" tvg-logo="",Pink Folk 1
+http://server2.balkantvmedia.com:8080/PINK_FOLK?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="OTV_Valentino" tvg-logo="",OTV Valentino
+http://server6.balkantvmedia.com:8080/OTV_Valentino?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HAYAT_FOLK" tvg-logo="",HAYAT FOLK
+http://server4.balkantvmedia.com:8080/HAYAT_FOLK?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="HAYAT_MUSIC" tvg-logo="",HAYAT MUSIC
+http://server5.balkantvmedia.com:8080/HAYAT_MUSIC?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Folk2" tvg-logo="",Pink Folk 2
+http://server2.balkantvmedia.com:8080/Pink_Folk2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Zabava" tvg-logo="",Pink Zabava
+http://server2.balkantvmedia.com:8080/Pink_Zabava?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_Live" tvg-logo="",Pink Koncert
+http://server6.balkantvmedia.com:8080/Pink_Live?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Pink_world" tvg-logo="",Pink World
+http://server2.balkantvmedia.com:8080/Pink_world?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="A1" tvg-logo="",A1
+http://server6.balkantvmedia.com:8080/A1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="YuPlanet" tvg-logo="",Yu Planet
+http://server6.balkantvmedia.com:8080/YuPlanet?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="DUGA_TV" tvg-logo="",DUGA TV
+http://server3.balkantvmedia.com:8080/DUGA_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="MTV_IGMAN" tvg-logo="",MTV IGMAN
+http://server6.balkantvmedia.com:8080/MTV_IGMAN?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="MTV_ADRIA" tvg-logo="",MTV ADRIA
+http://server4.balkantvmedia.com:8080/MTV_ADRIA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="MAGIC_TV" tvg-logo="",MAGIC TV
+http://server4.balkantvmedia.com:8080/MAGIC_TV?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="K3" tvg-logo="",K3
+http://server4.balkantvmedia.com:8080/K3?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="NTV_JATA" tvg-logo="",NTV JATA
+http://server4.balkantvmedia.com:8080/NTV_JATA?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ORF1" tvg-logo="",ORF 1
+http://server5.balkantvmedia.com:8080/ORF1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ORF2" tvg-logo="",ORF 2
+http://server2.balkantvmedia.com:8080/ORF2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ProSieben" tvg-logo="",ProSieben
+http://server3.balkantvmedia.com:8080/ProSieben?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="VOX" tvg-logo="",VOX
+http://server2.balkantvmedia.com:8080/VOX?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="SAT1" tvg-logo="",SAT 1
+http://server6.balkantvmedia.com:8080/SAT1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Kabel1" tvg-logo="",Kabel 1
+http://server6.balkantvmedia.com:8080/Kabel1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTL" tvg-logo="",RTL
+http://server4.balkantvmedia.com:8080/RTL?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="RTL2" tvg-logo="",RTL2
+http://server5.balkantvmedia.com:8080/RTL2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="",ZDF
+http://server2.balkantvmedia.com:8080/ZDF?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="",DMAX
+http://server3.balkantvmedia.com:8080/DMAX?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="XXX1" tvg-logo="",XXX1
+http://server6.balkantvmedia.com:8080/XXX1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="XXX2" tvg-logo="",XXX2
+http://server5.balkantvmedia.com:8080/XXX2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="XXX3" tvg-logo="",XXX3
+http://server5.balkantvmedia.com:8080/XXX3?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_EROTIK1" tvg-logo="",PINK EROTIKA 1
+http://server4.balkantvmedia.com:8080/PINK_EROTIK1?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_EROTIK2" tvg-logo="",PINK EROTIKA 2
+http://server3.balkantvmedia.com:8080/PINK_EROTIK2?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_EROTIK3" tvg-logo="",PINK EROTIKA 3
+http://server3.balkantvmedia.com:8080/PINK_EROTIK3?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="PINK_EROTIK4" tvg-logo="",PINK EROTIKA 4
+http://server6.balkantvmedia.com:8080/PINK_EROTIK4?u=user173:p=Dbp4w93g
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://pcrepair.com.ba/Logo3/esp1.png" group-title="Ex-Yu",Eurosport 1
 http://centurionlukavac.com:80/live?channelId=63&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://pcrepair.com.ba/Logo3/esp2.png" group-title="Ex-Yu",Eurosport 2

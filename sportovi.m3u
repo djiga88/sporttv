@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
-
 #EXTM3U
 #EXTINF:-1 tvg-name="SPORTKLUB_1HR" tvg-logo="",SPORT KLUB 1
 http://server3.balkantvmedia.com:8080/SPORTKLUB_1HR?u=user173:p=Dbp4w93g

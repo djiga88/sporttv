@@ -1,7 +1,39 @@
 #EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
 #EXTM3U
-#EXTINF:-1 tvg-name="PINK_EROTIK4" tvg-logo="",PINK EROTIKA 4
-http://server6.balkantvmedia.com:8080/PINK_EROTIK4?u=user173:p=Dbp4w93g
+#EXTINF:-1 tvg-name="SPORTKLUB_1HR" tvg-logo="",SPORT KLUB 1
+http://server3.balkantvmedia.com:8080/SPORTKLUB_1HR?u=user173:p=Dbp4w93g
+#EXTINF:-1 tvg-name="SPORTKLUB_2HR" tvg-logo="",SPORT KLUB 2
+http://server6.balkantvmedia.com:8080/SPORTKLUB_2HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="SPORTKLUB_3HR" tvg-logo="",SPORT KLUB 3
+http://server4.balkantvmedia.com:8080/SPORTKLUB_3HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_HD" tvg-logo="",Sport Klub HD
+http://server5.balkantvmedia.com:8080/Sport_Klub_HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_1HD" tvg-logo="",Sport Klub 1 HD
+http://server6.balkantvmedia.com:8080/Sport_Klub_1HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_2HD" tvg-logo="",Sport Klub 2 HD
+http://server6.balkantvmedia.com:8080/Sport_Klub_2HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_3HD" tvg-logo="",Sport Klub 3 HD
+http://server5.balkantvmedia.com:8080/Sport_Klub_3HD?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_1HR" tvg-logo="",ARENA SPORT 1 HR
+http://server2.balkantvmedia.com:8080/ARENA_SPORT_1HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_2HR" tvg-logo="",ARENA SPORT 2 HR
+http://server5.balkantvmedia.com:8080/ARENA_SPORT_2HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_3HR" tvg-logo="",ARENA SPORT 3 HR
+http://server5.balkantvmedia.com:8080/ARENA_SPORT_3HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_4HR" tvg-logo="",ARENA SPORT 4 HR
+http://server2.balkantvmedia.com:8080/ARENA_SPORT_4HR?u=user173:p=Dbp4w93g
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_5HR" tvg-logo="",ARENA SPORT 5 HR
+http://server4.balkantvmedia.com:8080/ARENA_SPORT_5HR?u=user173:p=Dbp4w93g
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://pcrepair.com.ba/Logo3/esp1.png" group-title="Ex-Yu",Eurosport 1
 http://centurionlukavac.com:80/live?channelId=63&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://pcrepair.com.ba/Logo3/esp2.png" group-title="Ex-Yu",Eurosport 2

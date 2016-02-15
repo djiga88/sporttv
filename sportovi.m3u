@@ -1,38 +1,38 @@
 #EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
 #EXTM3U
-#EXTINF:-1 tvg-name="SPORTKLUB_1HR" tvg-logo="",SPORT KLUB 1
+#EXTINF:-1 tvg-name="SPORTKLUB_1HR" tvg-logo="",SPORT KLUB 1(test)
 http://server3.balkantvmedia.com:8080/SPORTKLUB_1HR?u=user173:p=Dbp4w93g
-#EXTINF:-1 tvg-name="SPORTKLUB_2HR" tvg-logo="",SPORT KLUB 2
+#EXTINF:-1 tvg-name="SPORTKLUB_2HR" tvg-logo="",SPORT KLUB 2(test)
 http://server6.balkantvmedia.com:8080/SPORTKLUB_2HR?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="SPORTKLUB_3HR" tvg-logo="",SPORT KLUB 3
+#EXTINF:-1 tvg-name="SPORTKLUB_3HR" tvg-logo="",SPORT KLUB 3(test)
 http://server4.balkantvmedia.com:8080/SPORTKLUB_3HR?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="Sport_Klub_HD" tvg-logo="",Sport Klub HD
+#EXTINF:-1 tvg-name="Sport_Klub_HD" tvg-logo="",Sport Klub HD(test)
 http://server5.balkantvmedia.com:8080/Sport_Klub_HD?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="Sport_Klub_1HD" tvg-logo="",Sport Klub 1 HD
+#EXTINF:-1 tvg-name="Sport_Klub_1HD" tvg-logo="",Sport Klub 1 HD(test)
 http://server6.balkantvmedia.com:8080/Sport_Klub_1HD?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="Sport_Klub_2HD" tvg-logo="",Sport Klub 2 HD
+#EXTINF:-1 tvg-name="Sport_Klub_2HD" tvg-logo="",Sport Klub 2 HD(test)
 http://server6.balkantvmedia.com:8080/Sport_Klub_2HD?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="Sport_Klub_3HD" tvg-logo="",Sport Klub 3 HD
+#EXTINF:-1 tvg-name="Sport_Klub_3HD" tvg-logo="",Sport Klub 3 HD(test)
 http://server5.balkantvmedia.com:8080/Sport_Klub_3HD?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="ARENA_SPORT_1HR" tvg-logo="",ARENA SPORT 1 HR
+#EXTINF:-1 tvg-name="ARENA_SPORT_1HR" tvg-logo="",ARENA SPORT 1 HR(test)
 http://server2.balkantvmedia.com:8080/ARENA_SPORT_1HR?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="ARENA_SPORT_2HR" tvg-logo="",ARENA SPORT 2 HR
+#EXTINF:-1 tvg-name="ARENA_SPORT_2HR" tvg-logo="",ARENA SPORT 2 HR(test)
 http://server5.balkantvmedia.com:8080/ARENA_SPORT_2HR?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="ARENA_SPORT_3HR" tvg-logo="",ARENA SPORT 3 HR
+#EXTINF:-1 tvg-name="ARENA_SPORT_3HR" tvg-logo="",ARENA SPORT 3 HR(test)
 http://server5.balkantvmedia.com:8080/ARENA_SPORT_3HR?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="ARENA_SPORT_4HR" tvg-logo="",ARENA SPORT 4 HR
+#EXTINF:-1 tvg-name="ARENA_SPORT_4HR" tvg-logo="",ARENA SPORT 4 HR(test)
 http://server2.balkantvmedia.com:8080/ARENA_SPORT_4HR?u=user173:p=Dbp4w93g
 #EXTM3U
-#EXTINF:-1 tvg-name="ARENA_SPORT_5HR" tvg-logo="",ARENA SPORT 5 HR
+#EXTINF:-1 tvg-name="ARENA_SPORT_5HR" tvg-logo="",ARENA SPORT 5 HR(test)
 http://server4.balkantvmedia.com:8080/ARENA_SPORT_5HR?u=user173:p=Dbp4w93g
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://pcrepair.com.ba/Logo3/esp1.png" group-title="Ex-Yu",Eurosport 1
 http://centurionlukavac.com:80/live?channelId=63&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123

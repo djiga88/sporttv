@@ -1,4 +1,94 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="419" tvg-name="═════ SPORT ═════" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwXwA5v-64-6LVSwW6J32_ENHt9ivOHF8o1vYJUkr_efW49Cq1" group-title="Sport",═════ SPORT ═════ - ═════ SPORT ═════
+http://xmedia.bossna-caffe.com:80/live?channelId=419&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="44" tvg-name="Sport Klub 1 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk1-logo.png" group-title="Sport",Sport Klub 1 Hr - Sport Klub 1 Hr
+http://cms.bossna-caffe.com:80/live?channelId=44&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="45" tvg-name="Sport Klub 2 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk2-logo.png" group-title="Sport",Sport Klub 2 Hr - Sport Klub 2 Hr
+http://cms.bossna-caffe.com:80/live?channelId=45&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="46" tvg-name="Sport Klub 3 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk3-logo.png" group-title="Sport",Sport Klub 3 Hr - Sport Klub 3 Hr
+http://cms.bossna-caffe.com:80/live?channelId=46&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="254" tvg-name="Sport Klub 1 SR" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sport_klub_hr_1.png" group-title="Sport",Sport Klub 1 SR - Sport Klub 1 SR
+http://cms.bossna-caffe.com:80/live?channelId=254&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="255" tvg-name="Sport Klub 2 SR" tvg-logo="http://media.port-network.com/picture/instance_7/4088349_7.gif" group-title="Sport",Sport Klub 2 SR - Sport Klub 2 SR
+http://cms.bossna-caffe.com:80/live?channelId=255&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="256" tvg-name="Sport Klub 3 SR" tvg-logo="http://www.sbb.rs/upload/images/tv_logo_434.jpg" group-title="Sport",Sport Klub 3 SR - Sport Klub 3 SR
+http://cms.bossna-caffe.com:80/live?channelId=256&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="52" tvg-name="Arena Sport 1 (HR)" tvg-logo="http://mportal.com.hr/files/uploads/images/440x700/arena_logo.gif" group-title="Sport",Arena Sport 1 (HR) - Arena Sport 1 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=52&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="53" tvg-name="Arena Sport 2  (HR)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyDlypZFdgCXgPMI1HhB3i6kNjpF4ttJD8H_z1pCzrQwjvMMR" group-title="Sport",Arena Sport 2  (HR) - Arena Sport 2  (HR)
+http://cms.bossna-caffe.com:80/live?channelId=53&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="54" tvg-name="Arena Sport 3 (HR)" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnF_lK9sjTcfnSMvCtXil7DCV_Ml3AnAaHnT2ZBcLQSw44aaU-a-R-t098" group-title="Sport",Arena Sport 3 (HR) - Arena Sport 3 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=54&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="88" tvg-name="Arena Sport 4  (HR)" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 4  (HR) - Arena Sport 4  (HR)
+http://cms.bossna-caffe.com:80/live?channelId=88&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="178" tvg-name="Arena Sport 5  (HR)" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 5  (HR) - Arena Sport 5  (HR)
+http://cms.bossna-caffe.com:80/live?channelId=178&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="187" tvg-name="Arena Sports 1 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport1_rs.png" group-title="Sport",Arena Sports 1 (SR) - Arena Sports 1 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=187&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="188" tvg-name="Arena Sports 2 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport2_rs.png" group-title="Sport",Arena Sports 2 (SR) - Arena Sports 2 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=188&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="189" tvg-name="Arena Sports 3 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport3_rs.png" group-title="Sport",Arena Sports 3 (SR) - Arena Sports 3 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=189&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="190" tvg-name="Arena Sports 4 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport5_rs.png" group-title="Sport",Arena Sports 4 (SR) - Arena Sports 4 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=190&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="211" tvg-name="Arena Sport 5 SR" tvg-logo="http://www.bhb.ba/upload/images/files.jpg" group-title="Sport",Arena Sport 5 SR - Arena Sport 5 SR
+http://cms.bossna-caffe.com:80/live?channelId=211&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="29" tvg-name="Eurosport" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport-logo.png" group-title="Sport",Eurosport - Eurosport
+http://cms.bossna-caffe.com:80/live?channelId=29&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="150" tvg-name="Eurosport 2" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport2-logo.png" group-title="Sport",Eurosport 2 - Eurosport 2
+http://cms.bossna-caffe.com:80/live?channelId=150&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="26" tvg-name="Sky Sports 1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzAf4aQS8L2lNlFkoycS2VeaNzEAwWOIKryVBCBKXHIrr4ST0w89GdhVbo" group-title="Sport",Sky Sports 1 - Sky Sports 1
+http://xmedia.bossna-caffe.com:80/live?channelId=26&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="90" tvg-name="Sky Sports 2" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_it_sport2.png" group-title="Sport",Sky Sports 2 - Sky Sports 2
+http://xmedia.bossna-caffe.com:80/live?channelId=90&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="65" tvg-name="Sky Sports 3" tvg-logo="http://img2.wikia.nocookie.net/__cb20110206223105/logopedia/images/0/06/Sky_Sport_3_HD_Italy_2010.svg" group-title="Sport",Sky Sports 3 - Sky Sports 3
+http://xmedia.bossna-caffe.com:80/live?channelId=65&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="91" tvg-name="Sky Sports 4" tvg-logo="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png" group-title="Sport",Sky Sports 4 - Sky Sport 4
+http://cms.bossna-caffe.com:80/live?channelId=91&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="593" tvg-name="Sky Sports F1 UK" tvg-logo="/noicon.png" group-title="Sport",Sky Sports F1 UK - Sky Sports F1 UK
+http://video.bossna-caffe.com:80/live?channelId=593&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="466" tvg-name="Bein Sport 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845" group-title="Sport",Bein Sport 1 - Bein Sport 1
+http://xmedia.bossna-caffe.com:80/live?channelId=466&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="374" tvg-name="BEINSPORT-2HD" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",BEINSPORT-2HD - BEINSPORT-2HD
+http://xmedia.bossna-caffe.com:80/live?channelId=374&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="463" tvg-name="Bein Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GSFMIO7OZBQ49XKuecNIWHWf6ZB2VqZ2Gycu1iqLiXmTorLv" group-title="Sport",Bein Sport 3 - Bein Sport 3
+http://xmedia.bossna-caffe.com:80/live?channelId=463&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="375" tvg-name="BEINSPORT-4HD" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",BEINSPORT-4HD - BEINSPORT-4HD
+http://xmedia.bossna-caffe.com:80/live?channelId=375&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="464" tvg-name="Bein Sport 5" tvg-logo="http://img1.wikia.nocookie.net/__cb20140414170307/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="Sport",Bein Sport 5 - Bein Sport 5
+http://xmedia.bossna-caffe.com:80/live?channelId=464&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="465" tvg-name="Bein Sport 6" tvg-logo="http://www.new-tubes.net/file/2015/01/bein-sport-hd6.jpg" group-title="Sport",Bein Sport 6 - Bein Sport 6
+http://xmedia.bossna-caffe.com:80/live?channelId=465&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="467" tvg-name="Bein Sport 7" tvg-logo="http://tgo-tv.com/images/tv/beIN7.jpg" group-title="Sport",Bein Sport 7 - Bein Sport 7
+http://xmedia.bossna-caffe.com:80/live?channelId=467&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="468" tvg-name="Bein Sport 8" tvg-logo="http://www.teledusat.com/uploads/articles/10e6fe68.jpg" group-title="Sport",Bein Sport 8 - Bein Sport 8
+http://xmedia.bossna-caffe.com:80/live?channelId=468&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="469" tvg-name="Bein Sport 9" tvg-logo="http://www.teledusat.com/uploads/articles/272f78eb.jpg" group-title="Sport",Bein Sport 9 - Bein Sport 9
+http://xmedia.bossna-caffe.com:80/live?channelId=469&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="461" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="Sport",FOX Sports 1 - FOX Sports 1
+http://xmedia.bossna-caffe.com:80/live?channelId=461&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="462" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 - FOX Sports 2
+http://xmedia.bossna-caffe.com:80/live?channelId=462&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="455" tvg-name="BT Sport 1" tvg-logo="http://shqipal.altervista.org/storage/tv/btsport1.png" group-title="Sport",BT Sport 1 - BT Sport 1
+http://xmedia.bossna-caffe.com:80/live?channelId=455&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="456" tvg-name="BT Sport 2" tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821911201-130801120415.jpg" group-title="Sport",BT Sport 2 - BT Sport 2
+http://xmedia.bossna-caffe.com:80/live?channelId=456&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="366" tvg-name="NBA TV" tvg-logo="http://esso.bossna-caffe.com/logos/nba_tv.png" group-title="Sport",NBA TV - NBA TV
+http://xmedia.bossna-caffe.com:80/live?channelId=366&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="471" tvg-name="Motors UK" tvg-logo="http://www.thematv.com/medias/channels/motors-tv/Logo_MotorsTV_baseline_UK.jpg" group-title="Sport",Motors UK - Motors UK
+http://xmedia.bossna-caffe.com:80/live?channelId=471&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="457" tvg-name="SPORTTIME TV1" tvg-logo="http://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png" group-title="Sport",SPORTTIME TV1 - SPORTTIME TV1
+http://xmedia.bossna-caffe.com:80/live?channelId=457&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="458" tvg-name="SPORTTIME TV2" tvg-logo="http://2.bp.blogspot.com/-btnslDl_S6o/VLxDt95-9gI/AAAAAAAAB0A/7zGyAtGpk7U/s1600/MTV.png" group-title="Sport",SPORTTIME TV2 - SPORTTIME TV2
+http://xmedia.bossna-caffe.com:80/live?channelId=458&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="470" tvg-name="Barca TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="Sport",Barca TV - Barca TV
+http://xmedia.bossna-caffe.com:80/live?channelId=470&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="361" tvg-name="REAL MADRID TV & Liverpool TV" tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="Sport",REAL MADRID TV & Liverpool TV - REAL MADRID TV & Liverpool TV
+http://xmedia.bossna-caffe.com:80/live?channelId=361&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="341" tvg-name="Manchester TV" tvg-logo="http://static.nuuktv.gl/wp-content/uploads/2012/07/kanal4.png" group-title="Sport",Manchester TV - Manchester TV
+http://media.bossna-caffe.com:80/live?channelId=341&uid=4836&deviceUser=sota&devicePass=serbianforum
+#EXTINF:-1 tvg-id="316" tvg-name="Lig TV1 HD" tvg-logo="http://sorgulama.biz.tr/wp-content/uploads/2015/04/ligb.jpeg" group-title="Sport",Lig TV1 HD - Lig TV1 HD
+http://video.bossna-caffe.com:80/live?channelId=316&uid=4836&deviceUser=sota&devicePass=serbianforum
 #EXTINF:-1 tvg-id="412" tvg-name="═════Hrvatska═════" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTglLlz-Q8Ai3y7xIuTzU7SjRqOBErsUU1RKJMsHgyfEXliDrm7igdE5Jg3" group-title="Ex-YU",═════Hrvatska═════ - ═════Hrvatska═════
 http://xmedia.bossna-caffe.com:80/live?channelId=412&uid=4836&deviceUser=sota&devicePass=serbianforum
 #EXTINF:-1 tvg-id="128" tvg-name="HRT1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Ex-YU",HRT1 - HRT1
@@ -321,96 +411,6 @@ http://cms.bossna-caffe.com:80/live?channelId=561&uid=4836&deviceUser=sota&devic
 http://video.bossna-caffe.com:80/live?channelId=586&uid=4836&deviceUser=sota&devicePass=serbianforum
 #EXTINF:-1 tvg-id="584" tvg-name="Sky Germany History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Germany",Sky Germany History Channel - Sky Germany History Channel
 http://video.bossna-caffe.com:80/live?channelId=584&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="419" tvg-name="═════ SPORT ═════" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwXwA5v-64-6LVSwW6J32_ENHt9ivOHF8o1vYJUkr_efW49Cq1" group-title="Sport",═════ SPORT ═════ - ═════ SPORT ═════
-http://xmedia.bossna-caffe.com:80/live?channelId=419&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="44" tvg-name="Sport Klub 1 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk1-logo.png" group-title="Sport",Sport Klub 1 Hr - Sport Klub 1 Hr
-http://cms.bossna-caffe.com:80/live?channelId=44&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="45" tvg-name="Sport Klub 2 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk2-logo.png" group-title="Sport",Sport Klub 2 Hr - Sport Klub 2 Hr
-http://cms.bossna-caffe.com:80/live?channelId=45&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="46" tvg-name="Sport Klub 3 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk3-logo.png" group-title="Sport",Sport Klub 3 Hr - Sport Klub 3 Hr
-http://cms.bossna-caffe.com:80/live?channelId=46&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="254" tvg-name="Sport Klub 1 SR" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sport_klub_hr_1.png" group-title="Sport",Sport Klub 1 SR - Sport Klub 1 SR
-http://cms.bossna-caffe.com:80/live?channelId=254&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="255" tvg-name="Sport Klub 2 SR" tvg-logo="http://media.port-network.com/picture/instance_7/4088349_7.gif" group-title="Sport",Sport Klub 2 SR - Sport Klub 2 SR
-http://cms.bossna-caffe.com:80/live?channelId=255&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="256" tvg-name="Sport Klub 3 SR" tvg-logo="http://www.sbb.rs/upload/images/tv_logo_434.jpg" group-title="Sport",Sport Klub 3 SR - Sport Klub 3 SR
-http://cms.bossna-caffe.com:80/live?channelId=256&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="52" tvg-name="Arena Sport 1 (HR)" tvg-logo="http://mportal.com.hr/files/uploads/images/440x700/arena_logo.gif" group-title="Sport",Arena Sport 1 (HR) - Arena Sport 1 (HR)
-http://cms.bossna-caffe.com:80/live?channelId=52&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="53" tvg-name="Arena Sport 2  (HR)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyDlypZFdgCXgPMI1HhB3i6kNjpF4ttJD8H_z1pCzrQwjvMMR" group-title="Sport",Arena Sport 2  (HR) - Arena Sport 2  (HR)
-http://cms.bossna-caffe.com:80/live?channelId=53&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="54" tvg-name="Arena Sport 3 (HR)" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnF_lK9sjTcfnSMvCtXil7DCV_Ml3AnAaHnT2ZBcLQSw44aaU-a-R-t098" group-title="Sport",Arena Sport 3 (HR) - Arena Sport 3 (HR)
-http://cms.bossna-caffe.com:80/live?channelId=54&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="88" tvg-name="Arena Sport 4  (HR)" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 4  (HR) - Arena Sport 4  (HR)
-http://cms.bossna-caffe.com:80/live?channelId=88&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="178" tvg-name="Arena Sport 5  (HR)" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 5  (HR) - Arena Sport 5  (HR)
-http://cms.bossna-caffe.com:80/live?channelId=178&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="187" tvg-name="Arena Sports 1 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport1_rs.png" group-title="Sport",Arena Sports 1 (SR) - Arena Sports 1 (SR)
-http://cms.bossna-caffe.com:80/live?channelId=187&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="188" tvg-name="Arena Sports 2 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport2_rs.png" group-title="Sport",Arena Sports 2 (SR) - Arena Sports 2 (SR)
-http://cms.bossna-caffe.com:80/live?channelId=188&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="189" tvg-name="Arena Sports 3 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport3_rs.png" group-title="Sport",Arena Sports 3 (SR) - Arena Sports 3 (SR)
-http://cms.bossna-caffe.com:80/live?channelId=189&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="190" tvg-name="Arena Sports 4 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport5_rs.png" group-title="Sport",Arena Sports 4 (SR) - Arena Sports 4 (SR)
-http://cms.bossna-caffe.com:80/live?channelId=190&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="211" tvg-name="Arena Sport 5 SR" tvg-logo="http://www.bhb.ba/upload/images/files.jpg" group-title="Sport",Arena Sport 5 SR - Arena Sport 5 SR
-http://cms.bossna-caffe.com:80/live?channelId=211&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="29" tvg-name="Eurosport" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport-logo.png" group-title="Sport",Eurosport - Eurosport
-http://cms.bossna-caffe.com:80/live?channelId=29&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="150" tvg-name="Eurosport 2" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport2-logo.png" group-title="Sport",Eurosport 2 - Eurosport 2
-http://cms.bossna-caffe.com:80/live?channelId=150&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="26" tvg-name="Sky Sports 1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzAf4aQS8L2lNlFkoycS2VeaNzEAwWOIKryVBCBKXHIrr4ST0w89GdhVbo" group-title="Sport",Sky Sports 1 - Sky Sports 1
-http://xmedia.bossna-caffe.com:80/live?channelId=26&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="90" tvg-name="Sky Sports 2" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_it_sport2.png" group-title="Sport",Sky Sports 2 - Sky Sports 2
-http://xmedia.bossna-caffe.com:80/live?channelId=90&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="65" tvg-name="Sky Sports 3" tvg-logo="http://img2.wikia.nocookie.net/__cb20110206223105/logopedia/images/0/06/Sky_Sport_3_HD_Italy_2010.svg" group-title="Sport",Sky Sports 3 - Sky Sports 3
-http://xmedia.bossna-caffe.com:80/live?channelId=65&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="91" tvg-name="Sky Sports 4" tvg-logo="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png" group-title="Sport",Sky Sports 4 - Sky Sport 4
-http://cms.bossna-caffe.com:80/live?channelId=91&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="593" tvg-name="Sky Sports F1 UK" tvg-logo="/noicon.png" group-title="Sport",Sky Sports F1 UK - Sky Sports F1 UK
-http://video.bossna-caffe.com:80/live?channelId=593&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="466" tvg-name="Bein Sport 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845" group-title="Sport",Bein Sport 1 - Bein Sport 1
-http://xmedia.bossna-caffe.com:80/live?channelId=466&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="374" tvg-name="BEINSPORT-2HD" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",BEINSPORT-2HD - BEINSPORT-2HD
-http://xmedia.bossna-caffe.com:80/live?channelId=374&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="463" tvg-name="Bein Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GSFMIO7OZBQ49XKuecNIWHWf6ZB2VqZ2Gycu1iqLiXmTorLv" group-title="Sport",Bein Sport 3 - Bein Sport 3
-http://xmedia.bossna-caffe.com:80/live?channelId=463&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="375" tvg-name="BEINSPORT-4HD" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",BEINSPORT-4HD - BEINSPORT-4HD
-http://xmedia.bossna-caffe.com:80/live?channelId=375&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="464" tvg-name="Bein Sport 5" tvg-logo="http://img1.wikia.nocookie.net/__cb20140414170307/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="Sport",Bein Sport 5 - Bein Sport 5
-http://xmedia.bossna-caffe.com:80/live?channelId=464&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="465" tvg-name="Bein Sport 6" tvg-logo="http://www.new-tubes.net/file/2015/01/bein-sport-hd6.jpg" group-title="Sport",Bein Sport 6 - Bein Sport 6
-http://xmedia.bossna-caffe.com:80/live?channelId=465&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="467" tvg-name="Bein Sport 7" tvg-logo="http://tgo-tv.com/images/tv/beIN7.jpg" group-title="Sport",Bein Sport 7 - Bein Sport 7
-http://xmedia.bossna-caffe.com:80/live?channelId=467&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="468" tvg-name="Bein Sport 8" tvg-logo="http://www.teledusat.com/uploads/articles/10e6fe68.jpg" group-title="Sport",Bein Sport 8 - Bein Sport 8
-http://xmedia.bossna-caffe.com:80/live?channelId=468&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="469" tvg-name="Bein Sport 9" tvg-logo="http://www.teledusat.com/uploads/articles/272f78eb.jpg" group-title="Sport",Bein Sport 9 - Bein Sport 9
-http://xmedia.bossna-caffe.com:80/live?channelId=469&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="461" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="Sport",FOX Sports 1 - FOX Sports 1
-http://xmedia.bossna-caffe.com:80/live?channelId=461&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="462" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 - FOX Sports 2
-http://xmedia.bossna-caffe.com:80/live?channelId=462&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="455" tvg-name="BT Sport 1" tvg-logo="http://shqipal.altervista.org/storage/tv/btsport1.png" group-title="Sport",BT Sport 1 - BT Sport 1
-http://xmedia.bossna-caffe.com:80/live?channelId=455&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="456" tvg-name="BT Sport 2" tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821911201-130801120415.jpg" group-title="Sport",BT Sport 2 - BT Sport 2
-http://xmedia.bossna-caffe.com:80/live?channelId=456&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="366" tvg-name="NBA TV" tvg-logo="http://esso.bossna-caffe.com/logos/nba_tv.png" group-title="Sport",NBA TV - NBA TV
-http://xmedia.bossna-caffe.com:80/live?channelId=366&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="471" tvg-name="Motors UK" tvg-logo="http://www.thematv.com/medias/channels/motors-tv/Logo_MotorsTV_baseline_UK.jpg" group-title="Sport",Motors UK - Motors UK
-http://xmedia.bossna-caffe.com:80/live?channelId=471&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="457" tvg-name="SPORTTIME TV1" tvg-logo="http://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png" group-title="Sport",SPORTTIME TV1 - SPORTTIME TV1
-http://xmedia.bossna-caffe.com:80/live?channelId=457&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="458" tvg-name="SPORTTIME TV2" tvg-logo="http://2.bp.blogspot.com/-btnslDl_S6o/VLxDt95-9gI/AAAAAAAAB0A/7zGyAtGpk7U/s1600/MTV.png" group-title="Sport",SPORTTIME TV2 - SPORTTIME TV2
-http://xmedia.bossna-caffe.com:80/live?channelId=458&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="470" tvg-name="Barca TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="Sport",Barca TV - Barca TV
-http://xmedia.bossna-caffe.com:80/live?channelId=470&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="361" tvg-name="REAL MADRID TV & Liverpool TV" tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="Sport",REAL MADRID TV & Liverpool TV - REAL MADRID TV & Liverpool TV
-http://xmedia.bossna-caffe.com:80/live?channelId=361&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="341" tvg-name="Manchester TV" tvg-logo="http://static.nuuktv.gl/wp-content/uploads/2012/07/kanal4.png" group-title="Sport",Manchester TV - Manchester TV
-http://media.bossna-caffe.com:80/live?channelId=341&uid=4836&deviceUser=sota&devicePass=serbianforum
-#EXTINF:-1 tvg-id="316" tvg-name="Lig TV1 HD" tvg-logo="http://sorgulama.biz.tr/wp-content/uploads/2015/04/ligb.jpeg" group-title="Sport",Lig TV1 HD - Lig TV1 HD
-http://video.bossna-caffe.com:80/live?channelId=316&uid=4836&deviceUser=sota&devicePass=serbianforum
 #EXTINF:-1 tvg-id="421" tvg-name="═════ UK/USA═════" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6VtQ_IjYh2W4_P7acz90M9I7Rv_AVXWVld3nh4HIDQMQuPN5UkjcSqCA2" group-title="International",═════ UK/USA═════ - ═════ UK/USA═════
 http://xmedia.bossna-caffe.com:80/live?channelId=421&uid=4836&deviceUser=sota&devicePass=serbianforum
 #EXTINF:-1 tvg-id="429" tvg-name="UK Watch" tvg-logo="http://img3.wikia.nocookie.net/__cb20130408114137/logopedia/images/thumb/6/66/UKTV_2013_Print.svg/304px-UKTV_2013_Print.svg.png" group-title="International",UK Watch - UK Watch
